@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://isabela-reviews.github.io/Primal-Grow-Pro-Reviews-2026-Does-It-Work/sitemap.xml
